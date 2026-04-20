@@ -1,0 +1,38 @@
+body {
+  background:black;
+  color:white;
+  font-family:sans-serif;
+  text-align:center;
+}
+
+input {
+  padding:10px;
+  margin:5px;
+  width:200px;
+}
+
+button {
+  padding:10px;
+  margin:5px;
+  background:orange;
+  border:none;
+  color:black;
+  font-weight:bold;
+}
+
+.nav {
+  position:fixed;
+  bottom:0;
+  width:100%;
+  background:#111;
+}
+
+.nav button {
+  width:24%;
+}
+
+.coin {
+  border:1px solid #333;
+  margin:5px;
+  padding:10px;
+}
